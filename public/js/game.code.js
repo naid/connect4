@@ -117,6 +117,7 @@ $( document ).ready( function() {
         )
         {
             if ( endgame === 0 ){
+                alert( color.toUpperCase() + " Wins!" );
                 $( "#result" ).text( color.toUpperCase() + " Wins!" );
                 $( ".clickable" ).addClass( "filled" );
                 $( ".clickable" ).removeClass( "clickable" );
