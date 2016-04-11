@@ -7,7 +7,7 @@
         <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
         <link href="https://secure-taiga-52851.herokuapp.com/css/style.css" rel="stylesheet">
-        <script src="http://secure-taiga-52851.herokuapp.com/js/game.code.js"></script>
+        <script src="https://secure-taiga-52851.herokuapp.com/js/game.code.js"></script>
     </head>
     <body>
         <div class="container">
