@@ -3,11 +3,11 @@
     <head>
         <title>Ronald Magcalas</title>
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
-        <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+        <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+        <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
-        <link href="{{ URL::asset('css/style.css?4') }}" rel="stylesheet">
-        <script src="{{ URL::asset('js/game.code.js?3') }}"></script>
+        <link href="https://secure-taiga-52851.herokuapp.com/css/style.css" rel="stylesheet">
+        <script src="http://secure-taiga-52851.herokuapp.com/js/game.code.js"></script>
     </head>
     <body>
         <div class="container">
